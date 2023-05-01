@@ -50,7 +50,7 @@
 
 ## 📝GItHub Analytics
 
-<div style="display:flex;justify-content: space-around;"><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc-cherry&layout=compact" /><img height="150px" src="https://github-readme-stats.vercel.app/api?username=cc-cherry&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /></div>
+<div style="display:flex;justify-content: space-around;"><img height="150px" style="margin-right:20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cc-cherry&layout=compact" /><img height="150px" src="https://github-readme-stats.vercel.app/api?username=cc-cherry&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /></div>
 <div>
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
